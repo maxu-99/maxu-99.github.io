@@ -40,13 +40,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mahmudulhossain607@gmail.com"
-  facebook: deanattali
+    #  facebook: deanattali
   github: maxu-99
   twitter: MahmudulTamim
-  patreon: DeanAttali
-  youtube: c/daattali
+    #  patreon: DeanAttali
+    #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: mahmudul-hossain99
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
